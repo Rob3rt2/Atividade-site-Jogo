@@ -30,16 +30,15 @@ body{
 	
 h2{
 	text-align:center;
-	font:30px times;
-	color:gray;
+	font:40px times;
+	
 	
 
 }
 p{
 	text-align:center;
-	font:15px times;
+	font:20px times;
 	padding:7px;
-	color:gray;
 	word-spacing:1px;
 }
 	
